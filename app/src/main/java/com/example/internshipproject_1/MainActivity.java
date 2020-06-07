@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         text2.setText(edit1.getText().toString());
     }
     public void rpressed(View view){
-        textView.setText(""+0);
+        textView.setText(""+1);
         text2.setText("");
     }
 }
